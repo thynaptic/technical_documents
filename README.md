@@ -1,10 +1,12 @@
-# Thynaptic Research: Zenodo Publication Repository
+# Thynaptic Research: Publication Repository
 
 ---
 
 ## Overview
 
-This repository structures all Thynaptic Research publications for archival and distribution through Zenodo. We organize research outputs by category: technical reports, benchmark evaluations, architectural whitepapers, and supporting diagrams. All publications follow Thynaptic Research House Style Guide and maintain consistency in metadata, formatting, and citation standards.
+This repository structures all Thynaptic Research publications. 
+We organize research outputs by category: technical reports, benchmark evaluations, architectural whitepapers, and supporting diagrams. 
+All publications follow Thynaptic Research House Style Guide and maintain consistency in metadata, formatting, and citation standards.
 
 ---
 
