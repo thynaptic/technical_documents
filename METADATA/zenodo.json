@@ -1,0 +1,94 @@
+{
+  "title": "Thynaptic Research: Cognitive-Local Language Models Technical Publications",
+  "description": "Technical publications documenting Cognitive-Local Language Models (C-LLMs), adaptive cognitive architectures, evaluation frameworks, and system implementations. This repository contains technical reports (TR-Series), benchmark evaluations, architectural whitepapers, and supporting documentation for Aurora, the first production C-LLM system. All publications follow Thynaptic Research House Style Guide and document evidence-grounded cognitive architectures operating independently of model inference.",
+  "creators": [
+    {
+      "name": "Cognitive Architecture Team",
+      "affiliation": "Thynaptic Research"
+    },
+    {
+      "name": "Evaluation & Benchmarking Team",
+      "affiliation": "Thynaptic Research"
+    }
+  ],
+  "keywords": [
+    "cognitive-language-models",
+    "adaptive-cognitive-layer",
+    "local-first-ai",
+    "cognitive-architecture",
+    "language-models",
+    "on-device-cognition",
+    "emotional-memory",
+    "reasoning-routing",
+    "semantic-memory-clustering",
+    "cognitive-local-alignment",
+    "aurora-system",
+    "c-llm",
+    "cognitive-mmlu",
+    "mmlu-benchmark",
+    "human-ai-interaction"
+  ],
+  "license": {
+    "id": "CC-BY-4.0"
+  },
+  "upload_type": "publication",
+  "publication_type": "technicalreport",
+  "access_right": "open",
+  "communities": [],
+  "version": "1.0.0",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/thynaptic-labs/aurora-standalone",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Thynaptic Research",
+      "type": "Other",
+      "affiliation": "Thynaptic Research"
+    }
+  ],
+  "notes": "This repository contains technical publications for Zenodo archival and DOI assignment. Publications are organized by category: TR-Reports (technical research reports), Benchmarks (evaluation frameworks), Whitepapers (architectural documentation), and Diagrams (visual documentation). All publications maintain consistency with Thynaptic Research House Style Guide and provide evidence-grounded documentation of cognitive architectures.",
+  "language": "eng",
+  "subjects": [
+    {
+      "term": "Computer Science",
+      "identifier": "https://www.wikidata.org/wiki/Q21198",
+      "scheme": "url"
+    },
+    {
+      "term": "Artificial Intelligence",
+      "identifier": "https://www.wikidata.org/wiki/Q11660",
+      "scheme": "url"
+    },
+    {
+      "term": "Machine Learning",
+      "identifier": "https://www.wikidata.org/wiki/Q2539",
+      "scheme": "url"
+    },
+    {
+      "term": "Cognitive Science",
+      "identifier": "https://www.wikidata.org/wiki/Q12133",
+      "scheme": "url"
+    }
+  ],
+  "references": [],
+  "journal": {
+    "title": "Thynaptic Research Technical Reports",
+    "volume": "2025",
+    "pages": "TR-Series",
+    "issue": "1",
+    "year": 2025
+  },
+  "imprint_publisher": "Thynaptic Research",
+  "imprint_place": "United States",
+  "partof_pages": "TR-Reports, Benchmarks, Whitepapers, Diagrams",
+  "dates": {
+    "start": "2025-01-15",
+    "type": "Collected"
+  },
+  "method": "This repository archives technical publications documenting Cognitive-Local Language Model (C-LLM) architecture, implementation, and evaluation. Publications follow Thynaptic Research House Style Guide with evidence-grounded claims, measurable metrics, and architectural documentation. All reports undergo internal review for accuracy and compliance with publication standards."
+}
+
