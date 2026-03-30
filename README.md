@@ -1,6 +1,6 @@
 # Thynaptic Research: Publication Repository
-[[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17766241.svg)](https://doi.org/10.5281/zenodo.17766241)
-](https://doi.org/10.5281/zenodo.17766241)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17766241.svg)](https://doi.org/10.5281/zenodo.17766241)
+
 ---
 
 ## Overview
